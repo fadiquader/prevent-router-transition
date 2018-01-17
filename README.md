@@ -1,7 +1,7 @@
-"# prevent-router-transition" 
----
+## prevent-router-transition
+
 Prevent router transition component for react-react-router-dom v4.
-like facebook when you are trying to leave page and the post box not empty.
+like facebook when you are trying to leave page and post editor is not empty.
 
 ## Screenshot
 
