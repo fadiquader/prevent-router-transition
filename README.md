@@ -11,7 +11,11 @@ https://github.com/fadiquader/prevent-router-transition/blob/master/example/inde
 
 ## Install
 ```
+Install by yarn
 yarn add prevent-router-transition
+
+Or by npm
+npm i prevent-router-transition
 ```
 
 ## Usage

@@ -1,6 +1,6 @@
 {
   "name": "prevent-router-transition",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "Prevent router transition component for react-router-dom",
   "main": "lib/index.js",
   "scripts": {
