@@ -4,9 +4,9 @@ Prevent router transition component for react-react-router-dom v4.
 like facebook when you are trying to leave page and the post box not empty.
 
 ## Screenshot
-<img src="https://lh3.googleusercontent.com/-bFt7wum5f-Q/Wl773355ahI/AAAAAAAABS8/tmvNFjtolQkyLamQA5n4YLsC5v4fF8r8ACL0BGAs/w530-d-h331-rw/e25b7ad951e84750bfd65a78b778c51f.gif" />
+<img src="https://lh3.googleusercontent.com/EDGHJ1nUg_X_uBEjSiz2gFhqkkBBiTAoUB1rp-OEHF4dklceN4MCiRBPoLi2uj7_JH6Ire1u1EkkAmQ5oHix=w1349-h610-rw" />
 look at example.
-
+https://github.com/fadiquader/prevent-router-transition/blob/master/example/index.js
 ## Install
 
 ```
