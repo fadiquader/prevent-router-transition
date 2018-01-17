@@ -121,3 +121,9 @@ export default Example;
     </tbody>
 </table>
 
+## Dependencies
+[1. react-router-dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)
+<br>
+[2. rc-dialog](https://github.com/react-component/dialog)
+
+
