@@ -70,13 +70,13 @@ export default Example;
           </tr>
           <tr>
               <td>title</td>
-              <td>Noode | String</td>
+              <td>Node | String</td>
               <td>Leave Page?</td>
-              <td>Modal title, if title=null, will hide the modal header</td>
+              <td>Modal title, if title=null, modal header will be hidden</td>
           </tr>
           <tr>
               <td>message</td>
-              <td>Noode | String</td>
+              <td>Node | String</td>
               <td>Do you want to leave without finishing?</td>
               <td>Modal message </td>
           </tr>
