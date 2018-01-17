@@ -5,7 +5,7 @@ Prevent router transition component for react-router-dom; Like facebook when you
 
 <img src="https://raw.githubusercontent.com/fadiquader/prevent-router-transition/master/screenshot.gif" />
 
-look at example.
+look at Example.
 
 https://github.com/fadiquader/prevent-router-transition/blob/master/example/index.js
 
@@ -31,7 +31,7 @@ class Example extends React.Component {
 
     render() {
         const { value } = this.state;
-        const preventTransition = !!value; // false if the value == ''
+        const preventTransition = !!value; // true if the value == ''
         return (
             <div>
                 <input type="text"
