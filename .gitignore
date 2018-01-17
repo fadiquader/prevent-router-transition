@@ -1,4 +1,5 @@
 .idea
-lib
+/lib
 /node_modules
 yarn.lock
+/webpack.config.js
