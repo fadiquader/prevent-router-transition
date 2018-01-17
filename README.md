@@ -1,4 +1,4 @@
-## prevent-router-transition
+## prevent-router-transition component
 
 Prevent router transition component for react-react-router-dom v4.
 like facebook when you are trying to leave page and post editor is not empty.
@@ -84,13 +84,13 @@ export default Example;
           </tr>
           <tr>
               <td>okText</td>
-              <td>Noode | String</td>
+              <td>Node | String</td>
               <td>Stay on this page</td>
               <td>ok button label</td>
           </tr>
           <tr>
               <td>cancelText</td>
-              <td>Noode | String</td>
+              <td>Node | String</td>
               <td>Leave this page</td>
               <td>cancel button label</td>
           </tr>
